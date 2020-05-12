@@ -70,4 +70,4 @@ Demographically, they are predominantly male, and lower than average income. The
 Given the low LTV and low conversion rates for this group, we would be best to avoid targeting them in our marketing.
 
 ## Acknowledgements
-Data set by [Starbucks](https://www.starbucks.com/).
+Dataset by [Starbucks](https://www.starbucks.com/).
