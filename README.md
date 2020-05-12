@@ -1,5 +1,7 @@
 _Udacity Data Science Nanodegree project by [Philip Seifi](https://www.seifi.co/)._
 
+_You can find the accompanying blog post on [Medium](https://medium.com/@seifip/starbucks-offers-advanced-customer-segmentation-with-python-737f22e245a4)._
+
 # Starbucks offers: Advanced customer segmentation with Python
 
 A small startup can afford to target users based on broad-stroke rules and rough demographics.
